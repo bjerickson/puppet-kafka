@@ -21,7 +21,7 @@
       "version_requirement": ">= 4.22.0 < 8.0.0"
     },
     {
-      "name": "deric/zookeeper",
+      "name": "bjerickson/zookeeper",
       "version_requirement": ">= 0.5.1 < 2.0.0"
     },
     {
